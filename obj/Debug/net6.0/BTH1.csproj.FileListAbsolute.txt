@@ -1,0 +1,60 @@
+D:\C#\LTTQ\BTH1\bin\Debug\net6.0\appsettings.Development.json
+D:\C#\LTTQ\BTH1\bin\Debug\net6.0\appsettings.json
+D:\C#\LTTQ\BTH1\bin\Debug\net6.0\BTH1.staticwebassets.runtime.json
+D:\C#\LTTQ\BTH1\bin\Debug\net6.0\BTH1.exe
+D:\C#\LTTQ\BTH1\bin\Debug\net6.0\BTH1.deps.json
+D:\C#\LTTQ\BTH1\bin\Debug\net6.0\BTH1.runtimeconfig.json
+D:\C#\LTTQ\BTH1\bin\Debug\net6.0\BTH1.dll
+D:\C#\LTTQ\BTH1\bin\Debug\net6.0\BTH1.pdb
+D:\C#\LTTQ\BTH1\obj\Debug\net6.0\BTH1.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\LTTQ\BTH1\obj\Debug\net6.0\BTH1.AssemblyInfoInputs.cache
+D:\C#\LTTQ\BTH1\obj\Debug\net6.0\BTH1.AssemblyInfo.cs
+D:\C#\LTTQ\BTH1\obj\Debug\net6.0\BTH1.csproj.CoreCompileInputs.cache
+D:\C#\LTTQ\BTH1\obj\Debug\net6.0\BTH1.MvcApplicationPartsAssemblyInfo.cache
+D:\C#\LTTQ\BTH1\obj\Debug\net6.0\BTH1.RazorAssemblyInfo.cache
+D:\C#\LTTQ\BTH1\obj\Debug\net6.0\BTH1.RazorAssemblyInfo.cs
+D:\C#\LTTQ\BTH1\obj\Debug\net6.0\staticwebassets\msbuild.BTH1.Microsoft.AspNetCore.StaticWebAssets.props
+D:\C#\LTTQ\BTH1\obj\Debug\net6.0\staticwebassets\msbuild.build.BTH1.props
+D:\C#\LTTQ\BTH1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BTH1.props
+D:\C#\LTTQ\BTH1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BTH1.props
+D:\C#\LTTQ\BTH1\obj\Debug\net6.0\staticwebassets.pack.json
+D:\C#\LTTQ\BTH1\obj\Debug\net6.0\staticwebassets.build.json
+D:\C#\LTTQ\BTH1\obj\Debug\net6.0\staticwebassets.development.json
+D:\C#\LTTQ\BTH1\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\C#\LTTQ\BTH1\obj\Debug\net6.0\scopedcss\bundle\BTH1.styles.css
+D:\C#\LTTQ\BTH1\obj\Debug\net6.0\scopedcss\projectbundle\BTH1.bundle.scp.css
+D:\C#\LTTQ\BTH1\obj\Debug\net6.0\BTH1.dll
+D:\C#\LTTQ\BTH1\obj\Debug\net6.0\refint\BTH1.dll
+D:\C#\LTTQ\BTH1\obj\Debug\net6.0\BTH1.pdb
+D:\C#\LTTQ\BTH1\obj\Debug\net6.0\BTH1.genruntimeconfig.cache
+D:\C#\LTTQ\BTH1\obj\Debug\net6.0\ref\BTH1.dll
+D:\Năm 3\Web\Thực hành\BTH1\bin\Debug\net6.0\appsettings.Development.json
+D:\Năm 3\Web\Thực hành\BTH1\bin\Debug\net6.0\appsettings.json
+D:\Năm 3\Web\Thực hành\BTH1\bin\Debug\net6.0\BTH1.staticwebassets.runtime.json
+D:\Năm 3\Web\Thực hành\BTH1\bin\Debug\net6.0\BTH1.exe
+D:\Năm 3\Web\Thực hành\BTH1\bin\Debug\net6.0\BTH1.deps.json
+D:\Năm 3\Web\Thực hành\BTH1\bin\Debug\net6.0\BTH1.runtimeconfig.json
+D:\Năm 3\Web\Thực hành\BTH1\bin\Debug\net6.0\BTH1.dll
+D:\Năm 3\Web\Thực hành\BTH1\bin\Debug\net6.0\BTH1.pdb
+D:\Năm 3\Web\Thực hành\BTH1\obj\Debug\net6.0\BTH1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Năm 3\Web\Thực hành\BTH1\obj\Debug\net6.0\BTH1.AssemblyInfoInputs.cache
+D:\Năm 3\Web\Thực hành\BTH1\obj\Debug\net6.0\BTH1.AssemblyInfo.cs
+D:\Năm 3\Web\Thực hành\BTH1\obj\Debug\net6.0\BTH1.csproj.CoreCompileInputs.cache
+D:\Năm 3\Web\Thực hành\BTH1\obj\Debug\net6.0\BTH1.MvcApplicationPartsAssemblyInfo.cache
+D:\Năm 3\Web\Thực hành\BTH1\obj\Debug\net6.0\BTH1.RazorAssemblyInfo.cache
+D:\Năm 3\Web\Thực hành\BTH1\obj\Debug\net6.0\BTH1.RazorAssemblyInfo.cs
+D:\Năm 3\Web\Thực hành\BTH1\obj\Debug\net6.0\staticwebassets\msbuild.BTH1.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Năm 3\Web\Thực hành\BTH1\obj\Debug\net6.0\staticwebassets\msbuild.build.BTH1.props
+D:\Năm 3\Web\Thực hành\BTH1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BTH1.props
+D:\Năm 3\Web\Thực hành\BTH1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BTH1.props
+D:\Năm 3\Web\Thực hành\BTH1\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Năm 3\Web\Thực hành\BTH1\obj\Debug\net6.0\staticwebassets.build.json
+D:\Năm 3\Web\Thực hành\BTH1\obj\Debug\net6.0\staticwebassets.development.json
+D:\Năm 3\Web\Thực hành\BTH1\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Năm 3\Web\Thực hành\BTH1\obj\Debug\net6.0\scopedcss\bundle\BTH1.styles.css
+D:\Năm 3\Web\Thực hành\BTH1\obj\Debug\net6.0\scopedcss\projectbundle\BTH1.bundle.scp.css
+D:\Năm 3\Web\Thực hành\BTH1\obj\Debug\net6.0\BTH1.dll
+D:\Năm 3\Web\Thực hành\BTH1\obj\Debug\net6.0\refint\BTH1.dll
+D:\Năm 3\Web\Thực hành\BTH1\obj\Debug\net6.0\BTH1.pdb
+D:\Năm 3\Web\Thực hành\BTH1\obj\Debug\net6.0\BTH1.genruntimeconfig.cache
+D:\Năm 3\Web\Thực hành\BTH1\obj\Debug\net6.0\ref\BTH1.dll
