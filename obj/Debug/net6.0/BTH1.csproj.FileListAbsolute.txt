@@ -58,3 +58,33 @@ D:\Năm 3\Web\Thực hành\BTH1\obj\Debug\net6.0\refint\BTH1.dll
 D:\Năm 3\Web\Thực hành\BTH1\obj\Debug\net6.0\BTH1.pdb
 D:\Năm 3\Web\Thực hành\BTH1\obj\Debug\net6.0\BTH1.genruntimeconfig.cache
 D:\Năm 3\Web\Thực hành\BTH1\obj\Debug\net6.0\ref\BTH1.dll
+C:\Users\HP\OneDrive - University of transport and Communication\Máy tính\New folder (2)\WebLab1\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\HP\OneDrive - University of transport and Communication\Máy tính\New folder (2)\WebLab1\bin\Debug\net6.0\appsettings.json
+C:\Users\HP\OneDrive - University of transport and Communication\Máy tính\New folder (2)\WebLab1\bin\Debug\net6.0\BTH1.staticwebassets.runtime.json
+C:\Users\HP\OneDrive - University of transport and Communication\Máy tính\New folder (2)\WebLab1\bin\Debug\net6.0\BTH1.exe
+C:\Users\HP\OneDrive - University of transport and Communication\Máy tính\New folder (2)\WebLab1\bin\Debug\net6.0\BTH1.deps.json
+C:\Users\HP\OneDrive - University of transport and Communication\Máy tính\New folder (2)\WebLab1\bin\Debug\net6.0\BTH1.runtimeconfig.json
+C:\Users\HP\OneDrive - University of transport and Communication\Máy tính\New folder (2)\WebLab1\bin\Debug\net6.0\BTH1.dll
+C:\Users\HP\OneDrive - University of transport and Communication\Máy tính\New folder (2)\WebLab1\bin\Debug\net6.0\BTH1.pdb
+C:\Users\HP\OneDrive - University of transport and Communication\Máy tính\New folder (2)\WebLab1\obj\Debug\net6.0\BTH1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive - University of transport and Communication\Máy tính\New folder (2)\WebLab1\obj\Debug\net6.0\BTH1.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive - University of transport and Communication\Máy tính\New folder (2)\WebLab1\obj\Debug\net6.0\BTH1.AssemblyInfo.cs
+C:\Users\HP\OneDrive - University of transport and Communication\Máy tính\New folder (2)\WebLab1\obj\Debug\net6.0\BTH1.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive - University of transport and Communication\Máy tính\New folder (2)\WebLab1\obj\Debug\net6.0\BTH1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP\OneDrive - University of transport and Communication\Máy tính\New folder (2)\WebLab1\obj\Debug\net6.0\BTH1.RazorAssemblyInfo.cache
+C:\Users\HP\OneDrive - University of transport and Communication\Máy tính\New folder (2)\WebLab1\obj\Debug\net6.0\BTH1.RazorAssemblyInfo.cs
+C:\Users\HP\OneDrive - University of transport and Communication\Máy tính\New folder (2)\WebLab1\obj\Debug\net6.0\staticwebassets\msbuild.BTH1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\HP\OneDrive - University of transport and Communication\Máy tính\New folder (2)\WebLab1\obj\Debug\net6.0\staticwebassets\msbuild.build.BTH1.props
+C:\Users\HP\OneDrive - University of transport and Communication\Máy tính\New folder (2)\WebLab1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BTH1.props
+C:\Users\HP\OneDrive - University of transport and Communication\Máy tính\New folder (2)\WebLab1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BTH1.props
+C:\Users\HP\OneDrive - University of transport and Communication\Máy tính\New folder (2)\WebLab1\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\HP\OneDrive - University of transport and Communication\Máy tính\New folder (2)\WebLab1\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\HP\OneDrive - University of transport and Communication\Máy tính\New folder (2)\WebLab1\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\HP\OneDrive - University of transport and Communication\Máy tính\New folder (2)\WebLab1\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\HP\OneDrive - University of transport and Communication\Máy tính\New folder (2)\WebLab1\obj\Debug\net6.0\scopedcss\bundle\BTH1.styles.css
+C:\Users\HP\OneDrive - University of transport and Communication\Máy tính\New folder (2)\WebLab1\obj\Debug\net6.0\scopedcss\projectbundle\BTH1.bundle.scp.css
+C:\Users\HP\OneDrive - University of transport and Communication\Máy tính\New folder (2)\WebLab1\obj\Debug\net6.0\BTH1.dll
+C:\Users\HP\OneDrive - University of transport and Communication\Máy tính\New folder (2)\WebLab1\obj\Debug\net6.0\refint\BTH1.dll
+C:\Users\HP\OneDrive - University of transport and Communication\Máy tính\New folder (2)\WebLab1\obj\Debug\net6.0\BTH1.pdb
+C:\Users\HP\OneDrive - University of transport and Communication\Máy tính\New folder (2)\WebLab1\obj\Debug\net6.0\BTH1.genruntimeconfig.cache
+C:\Users\HP\OneDrive - University of transport and Communication\Máy tính\New folder (2)\WebLab1\obj\Debug\net6.0\ref\BTH1.dll
