@@ -1,36 +1,65 @@
 ﻿using BTH1.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
-
+using IHostingEnvironment = Microsoft.AspNetCore.Hosting.IHostingEnvironment;
 
 namespace BTH1.Controllers
 {
     [Route("Admin/Student")]
-	public class StudentController : Controller
+    public class StudentController : Controller
     {
-        private List<Student> listStudents = new List<Student>();
-        public StudentController()
+        private List<Student> listStudents;
+        private readonly IHostingEnvironment env;
+        public StudentController(IHostingEnvironment _env) //tao ds
         {
-            //Tạo danh sách sinh viên với 4 dữ liệu mẫu
+            env = _env;
             listStudents = new List<Student>()
             {
-                new Student() { Id = 101, Name = "Hải Nam", Branch = Branch.IT,
-                Gender = Gender.Male, IsRegular=true,
-                Address = "A1-2018", Email = "nam@g.com" },
-
-                new Student() { Id = 102, Name = "Minh Tú", Branch = Branch.BE,
-                Gender = Gender.Female, IsRegular=true,
-                Address = "A1-2019", Email = "tu@g.com" },
-
-                new Student() { Id = 103, Name = "Hoàng Phong", Branch = Branch.CE,
-                Gender = Gender.Male, IsRegular=false,
-                Address = "A1-2020", Email = "phong@g.com" },
-
-                new Student() { Id = 104, Name = "Xuân Mai", Branch = Branch.EE,
-                Gender = Gender.Female, IsRegular = false,
-                Address = "A1-2021", Email = "mai@g.com" }
-
+                new Student()
+                {
+                    Id = 101,
+                    Name = "Hải Nam",
+                    DateOfBorth = DateTime.Now,
+                    Branch = Branch.IT,
+                    Gender = Gender.Male,
+                    IsRegular = true,
+                    Address = "Hà Nội",
+                    Email = "hainam@gmail.com"
+                },
+                new Student()
+                {
+                    Id = 102,
+                    Name = "Minh Tú",
+                    DateOfBorth = DateTime.Now,
+                    Branch = Branch.CE,
+                    Gender = Gender.Female,
+                    IsRegular = true,
+                    Address = "Thanh Hóa",
+                    Email = "mtu@gmail.com"
+                },
+                new Student()
+                {
+                    Id = 103,
+                    Name = "Hoàng Long",
+                    DateOfBorth = DateTime.Now,
+                    Branch = Branch.EE,
+                    Gender = Gender.Male,
+                    IsRegular = false,
+                    Address = "Hải Phòng",
+                    Email = "hlong@gmail.com"
+                },
+                new Student() {
+                    Id = 105,
+                    Name = "Lâm Hùng",
+                    DateOfBorth = DateTime.Now,
+                    Branch = Branch.BE,
+                    Gender = Gender.Male,
+                    IsRegular = false,
+                    Address = "Nghệ An",
+                    Email = "hung@gmail.com"
+                },
             };
+
         }
         [Route("List")]
         public IActionResult Index()
@@ -38,9 +67,10 @@ namespace BTH1.Controllers
             //Trả về View Index.cshtml cùng Model là danh sách sv listStudents
             return View(listStudents);
         }
-		[HttpGet("Add")]
-		
-		public IActionResult Create()
+		[HttpGet]
+        [Route("Add")]		
+
+        public IActionResult Create()
 		{
 			//lấy danh sách các giá trị Gender để hiển thị radio button trên form
 			ViewBag.AllGenders = Enum.GetValues(typeof(Gender)).Cast<Gender>().ToList();
@@ -55,13 +85,22 @@ namespace BTH1.Controllers
             };
 			return View();
 		}
-	    [HttpPost("Add")]
-		
-		public IActionResult Create(Student s)
-		{
-			s.Id = listStudents.Last<Student>().Id + 1;
-			listStudents.Add(s);
-			return View("Index", listStudents);
-		}
-	}
+	    [HttpPost]
+        [Route("Add")]
+        public async Task<IActionResult> Create(Student student)
+        {
+            if (student.Img != null)
+            {
+                var file = Path.Combine(env.ContentRootPath, "wwwroot\\Image", student.Img.FileName);
+                using (FileStream fileStream = new FileStream(file, FileMode.Create))
+                {
+                    await student.Img.CopyToAsync(fileStream);
+                }
+            }
+            student.Id = listStudents.Last<Student>().Id + 1;
+            listStudents.Add(student);
+            return View("Index", listStudents);
+        }
+
+    }
 }

@@ -1,6 +1,6 @@
 ﻿@model IEnumerable<Student>
-<a asp-controller="Student" asp-action="Create" asp-route-Student="Admin/Student/Add" class="btn btn-primary">Create Student</a> 
-<!--<a asp-action="Create" class="btn btn-primary">Create Student</a>-->
+<a asp-controller="Student" asp-action="Create" asp-route-Student="Admin/Student/Add" class="btn btn-primary">Create Student</a> -->
+<!-- <a asp-action="Create" class="btn btn-primary">Create Student</a> -->
 <a href="Add" class="btn btn-primary">Create Student</a>  
 <table class="table table-striped">
 	<thead>
@@ -13,6 +13,7 @@
 			<th>Hệ ĐT</th>
 			<th>Địa chỉ</th>
 			<th>Email</th>
+			<th>Ảnh</th>
 		</tr>
 	</thead>
 <tbody>
@@ -48,6 +49,12 @@
 	<td>@(s.IsRegular ? "Chính quy" : "Phi chính quy")</td>
 	<td>@s.Address</td>
 	<td>@s.Email</td>
+	<td>
+				@if (s.Img != null)
+				{
+								<img src="/Image/@s.Img.FileName" class="w-10" style="width: 50px">
+				}
+	</td>
 	</tr>
 		}
 </tbody>

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "hX2XGRzVIZC3dslAqOG/kGU2t72sRI5CffHzLJCjZZM=",
+  "Hash": "nRcbl5M6bkh54KM7zl4UOaZHFfKzSCMDLSUDWARdDLw=",
   "Source": "BTH1",
   "BasePath": "_content/BTH1",
   "Mode": "Default",
@@ -83,6 +83,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\HP\\OneDrive - University of transport and Communication\\Máy tính\\New folder (2)\\WebLab1\\wwwroot\\Image\\554b4ea3410f2a5e0e48810e55ecc15a.jpg",
+      "SourceId": "BTH1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HP\\OneDrive - University of transport and Communication\\Máy tính\\New folder (2)\\WebLab1\\wwwroot\\",
+      "BasePath": "_content/BTH1",
+      "RelativePath": "Image/554b4ea3410f2a5e0e48810e55ecc15a.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Image\\554b4ea3410f2a5e0e48810e55ecc15a.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\HP\\OneDrive - University of transport and Communication\\Máy tính\\New folder (2)\\WebLab1\\wwwroot\\Image\\d26adcad8dac9b5dde7906d9273f2114.jpg",
+      "SourceId": "BTH1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HP\\OneDrive - University of transport and Communication\\Máy tính\\New folder (2)\\WebLab1\\wwwroot\\",
+      "BasePath": "_content/BTH1",
+      "RelativePath": "Image/d26adcad8dac9b5dde7906d9273f2114.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Image\\d26adcad8dac9b5dde7906d9273f2114.jpg"
     },
     {
       "Identity": "C:\\Users\\HP\\OneDrive - University of transport and Communication\\Máy tính\\New folder (2)\\WebLab1\\wwwroot\\js\\site.js",
