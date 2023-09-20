@@ -1,5 +1,17 @@
-﻿@model IEnumerable<Student>
-<a asp-controller="Student" asp-action="Create" asp-route-Student="Admin/Student/Add" class="btn btn-primary">Create Student</a> -->
+﻿@{
+	ViewData["Title"] = "Student List";
+	Layout = "~/Views/Shared/MyLayoutHelper.cshtml";
+}
+@section Scripts{
+	<script>
+		var table = document.querySelector("table");
+		table.onclick = function onTableClick() {
+			table.style = "background-color: yellow;"
+		}
+	</script>
+}
+@model IEnumerable<Student>
+<a asp-controller="Student" asp-action="Create" asp-route-Student="Admin/Student/Add" class="btn btn-primary">Create Student</a> OR
 <!-- <a asp-action="Create" class="btn btn-primary">Create Student</a> -->
 <a href="Add" class="btn btn-primary">Create Student</a>  
 <table class="table table-striped">
